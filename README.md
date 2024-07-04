@@ -7,7 +7,6 @@
 
 #### Backend
 <img src="https://img.shields.io/badge/NestJS-191A1B?style=for-the-badge&logo=nestjs&logoColor=#E0234E"/>
-
-### Had experience working with 
-
-<img src="https://img.shields.io/badge/Node js-191A1B?style=for-the-badge&logo=Node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-191A1B?style=for-the-badge&logo=Express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MongoDB-191A1B?style=for-the-badge&logo=MongoDB&logoColor=#47A248"/>
+<img src="https://img.shields.io/badge/Sequelize-191A1B?style=for-the-badge&logo=sequelize&logoColor=#52B0E7"/>
+<img src="https://img.shields.io/badge/PostgreSQL-191A1B?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-191A1B?style=for-the-badge&logo=MongoDB&logoColor=#47A248"/>
